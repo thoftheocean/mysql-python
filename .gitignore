@@ -1,0 +1,16 @@
+# pycharm files
+.idea/
+
+# virtualenv
+env/
+Env/
+ENV/
+
+#py产生的二进制文件
+blog/*.pyc
+BlogDjango/*.pyc
+*.pyc
+
+#log files
+*.log
+test/*.log
